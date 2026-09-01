@@ -1,2 +1,2 @@
 # SpaTeM
-Code for SpaTeM in MICCAI2026.
+Code for SpaTeM in ICASSP 2027.
